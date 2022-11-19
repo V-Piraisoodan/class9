@@ -1,0 +1,11 @@
+.container{
+    color: rgb(73, 73, 73);
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.alpha{
+    list-style-type: lower-alpha;
+}
+li{
+    margin: 4px;
+}

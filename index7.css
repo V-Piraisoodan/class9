@@ -1,0 +1,71 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid black;
+    margin: 10px 30%;
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tittle{
+    display: flex;
+    font-size: 25px;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+    color: white;
+    padding: 4px 0px;
+    margin: 10px 0px;
+    width: 100%;
+}
+.fir-las{
+    display: flex;
+    justify-content:space-between;
+    width: 100%;
+}
+.Name{
+    display: flex;
+    flex-direction: column;
+    width: 45%;
+}
+.address{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.csz{
+    display: flex;
+    width:100%;
+}
+.input{
+    border: none;
+    border-bottom: 1px solid black;
+    width: 90%;
+    margin-bottom: 3px;
+    padding: 5px 3px;
+}
+.label{
+    margin: 2px 0px 5px 0px;
+}
+.subscribe{
+    display: flex;
+    justify-content: flex-start;
+    align-items:flex-start;
+    width: 100%;
+    margin: 15px 0px 2px 0px;
+}
+.sendme{
+    width: 100%;
+    margin: 5px 0px 2px 0px;
+}
+.chk-item{
+    margin-left:  5px;
+}
+.chk-items{
+    display: flex;
+    margin: 3px;
+}
+.sub-head,.send-head{
+    font-weight: bold;
+}
