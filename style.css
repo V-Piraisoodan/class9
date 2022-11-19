@@ -11,11 +11,10 @@ body{
     gap: 10px;
     margin: 7px 2px 2px 2px;
     justify-content: center;
-    border: 1px solid blue;
     width: 30%;
     border-radius: 10px;
     padding: 10px 3px 25px 3px;
-    background-color: rgb(255, 122, 233);
+    background-color: rgb(255, 175, 242);
 }
 .task{
     display: flex;
